@@ -11,7 +11,14 @@
     "nuxt": "^3.2.3"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.3.0",
+    "@fortawesome/free-brands-svg-icons": "^6.3.0",
+    "@fortawesome/free-regular-svg-icons": "^6.3.0",
+    "@fortawesome/free-solid-svg-icons": "^6.3.0",
+    "@fortawesome/vue-fontawesome": "^3.0.3",
     "@nuxtjs/tailwindcss": "^6.4.1",
-    "@tailwindcss/line-clamp": "^0.4.2"
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21"
   }
 }
